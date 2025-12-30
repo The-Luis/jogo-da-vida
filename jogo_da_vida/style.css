@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#startBtn{
+    border: none;
+    padding: 1rem;
+    font-size: 1.5rem;
+    background-color: #a5f2e8;
+    position: fixed;
+    top: 90%;
+    left: 50%;
+    transform: translate(-50%, -30%);
+    border-radius: 5px;
+}
